@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/jenkins-x-labs/foo/cmd/root"
+	"github.com/REPLACE_ME_ORG/REPLACE_ME_APP_NAME/cmd/root"
 )
 
 // Entrypoint for the command
